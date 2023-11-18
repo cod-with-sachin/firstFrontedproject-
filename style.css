@@ -1,0 +1,190 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #000000;
+}
+
+
+
+
+.st{
+    background-color: #FCAF02;
+    height: 86px;
+    
+    
+}
+
+.st li{
+float: right;
+list-style: none;
+
+}
+.st li a{
+    text-decoration: none;
+   margin: 20px;
+   text-align: center;
+   font-size: 28px;
+   font-family:  Montserrat;
+   color: #000000;
+}
+#zaa{
+    font-size: 28px;
+    font-family: 
+    Montserrat;
+    font-weight: 400;
+    color: white;
+}
+
+#c{
+    font-size: 50px;
+    font-family:  Montserrat;
+    font-weight:700 ;
+    width:736px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+    
+}
+
+#d{
+    width: 650px;
+    height: 238px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+    font-family:
+    Montserrat ;
+    z-index: 2;
+}
+#zzz{
+    ;
+}
+
+#qa{
+    z-index: 1;
+}
+#e{
+    font-size: 32px;
+    font-family:
+    Montserrat ;
+    width: 323px;
+    height: 63px;
+    background-color:#FCAF02;
+    font-weight: 700;
+    border-radius: 30px;
+margin-top: 0;
+}
+
+#f{
+    font-size: 64px;
+    color: #FCAF02;
+    margin-top: 60px;
+    margin-left: 25px;
+}
+
+
+#g{
+    margin-top: 60px;
+    margin-left: 25px;
+    width:
+    1225px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #000000;
+    border: 1px solid  #FCAF02;
+    padding: 20px;
+   font-size: 28px;
+}
+
+#h{
+    margin-top: 60px;
+    margin-left: 25px;
+    width:
+    1225px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #000000;
+    border: 1px solid  #FCAF02;
+    padding: 20px;
+   font-size: 28px;
+}
+
+#i{
+    margin-top: 60px;
+    margin-left: 60px;
+    width:
+    580px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #000000;
+    border: 1px solid  #FCAF02;
+    padding: 20px;
+   font-size: 28px; 
+}
+
+#j{
+    margin-top: 60px;
+    margin-left: 25px;
+    width:
+    580px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #000000;
+    border: 1px solid  #FCAF02;
+    padding: 20px;
+   font-size: 28px;
+}
+
+
+#k{
+    font-size: 32px;
+    font-family:
+    Montserrat ;
+    width: 323px;
+    height: 63px;
+    background-color:#FCAF02;
+    font-weight: 700;
+    border-radius: 30px;
+margin-top: 42px;
+margin-left: 35%;
+}
+
+#ss{
+    color: #FCAF02;
+    border: 1px solid #FCAF02;
+    width:1200px;
+	margin-top: 50px;
+    margin-left: 50px;
+   
+	height: 755px;
+	
+    font-family: 
+    Montserrat;
+    font-size: 28px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+#bb{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+#nn{
+    background: #FCAF02;
+    height: 50px;
+    color: #000000;
+}
+
+
+
+
+
